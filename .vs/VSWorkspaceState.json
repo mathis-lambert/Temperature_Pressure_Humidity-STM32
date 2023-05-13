@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\Src",
+    "\\Debug",
+    "\\Debug\\Drivers",
+    "\\Debug\\Drivers\\BSP",
+    "\\Debug\\Drivers\\BSP\\B-L475E-IOT01",
+    "\\Debug\\Drivers\\BSP\\Components",
+    "\\Debug\\Drivers\\STM32L4xx_HAL_Driver",
+    "\\Debug\\Drivers\\STM32L4xx_HAL_Driver\\Src",
+    "\\Debug\\Drivers\\Wifi"
+  ],
+  "SelectedNode": "\\Debug\\Drivers\\Wifi\\wifi.o",
+  "PreviewInSolutionExplorer": false
+}
